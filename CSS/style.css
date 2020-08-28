@@ -3,6 +3,18 @@
   padding: 0px;
   box-sizing: border-box;
 }
+.navbar{
+  border: 2px solid grey;
+  width: 100%;
+  height: 15vh;
+  background-color: grey;
+}
+.head{
+  font-size: 44px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-left: 15px;
+}
 #heading {
   margin-top: 3%;
   text-align: center;
