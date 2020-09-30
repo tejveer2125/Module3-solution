@@ -4,15 +4,15 @@
   box-sizing: border-box;
 }
 .navbar{
-  border: 2px solid grey;
+  border: 2px solid red;
   width: 100%;
   height: 15vh;
-  background-color: grey;
+  background-color: red;
 }
 .head{
-  font-size: 44px;
-  font-weight: 600;
-  margin-top: 15px;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 10px;
   margin-left: 15px;
 }
 #heading {
